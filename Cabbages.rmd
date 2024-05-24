@@ -63,9 +63,10 @@ The numerical summaries show...
 ```{r}
 t.test(VitC~Cult,data=veggy)
 ```
+Demonstrates the difference between C39 and C52 in according to cultivation method and the values of each.
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-We conclude therefore the VitC content based on Cultivation method C52 is higher than the cultivation method C39.
+We conclude therefore the VitC content based on Cultivation method C52 is higher than the cultivation method C39 as it is a less valaue than 0.05, therefore we fail to reject the hypothesis. 
